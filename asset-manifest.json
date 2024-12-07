@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YahyaElKenani/reactapp.git/static/css/main.d50eae27.css",
+    "main.js": "/YahyaElKenani/reactapp.git/static/js/main.00169d79.js",
+    "index.html": "/YahyaElKenani/reactapp.git/index.html",
+    "main.d50eae27.css.map": "/YahyaElKenani/reactapp.git/static/css/main.d50eae27.css.map",
+    "main.00169d79.js.map": "/YahyaElKenani/reactapp.git/static/js/main.00169d79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50eae27.css",
+    "static/js/main.00169d79.js"
+  ]
+}
